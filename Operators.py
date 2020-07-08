@@ -35,7 +35,7 @@
 #Case2: Sum of digits 64=10, 77=14,11=2
 #Which number should I used to get 6 as quotient and 4 as remainder? 10
 
-# inputNumber=46
+# inputNumber=4
 # divisor=10
 # quotient=inputNumber//divisor #2
 # remainder=inputNumber%divisor #4
